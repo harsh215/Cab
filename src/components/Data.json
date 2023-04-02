@@ -1,0 +1,35 @@
+ [
+    {
+        "id":0,
+        "name":"MICRO",
+        "costShow":"1.0 $/min",
+        "cost":1
+        
+    },
+    {
+        "id":1,
+        "name":"SEDAN",
+        "costShow":"1.5 $/min",
+        "cost":1.5
+    },
+    {
+        "id":2,
+        "name":"VAN",
+        "costShow":"2.0 $/min",
+        "cost":2
+    },
+    {
+        "id":3,
+        "name":"ROADSTER",
+        "costShow":"3.0 $/min",
+        "cost":3
+
+    },
+    {
+        "id":4,
+        "name":"SUPERCAR",
+        "costShow":"5.0 $/min",
+        "cost":5
+
+    }
+]
